@@ -27,4 +27,4 @@ if __name__ == '__main__':
     streamHandler.setFormatter(formatter)
     app.logger.addHandler(streamHandler)
     app.logger.info("Logging is set up.")
-    app.run(debug=True)
+    app.run(host='0.0.0.0',debug=True)
