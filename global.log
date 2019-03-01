@@ -1,0 +1,90 @@
+[2019-03-01 14:09:43,494] p13171 {app.py:28} INFO - Logging is set up.
+[2019-03-01 14:09:43,513] p13171 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-03-01 14:09:43,514] p13171 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:09:43,738] p13173 {app.py:28} INFO - Logging is set up.
+[2019-03-01 14:09:43,755] p13173 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:09:43,756] p13173 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
+[2019-03-01 14:09:52,989] p13173 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO - 127.0.0.1 - - [01/Mar/2019 14:09:52] "GET / HTTP/1.1" 200 -
+[2019-03-01 14:12:59,165] p13173 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Detected change in '/home/moka/tiki-webservice/app.py', reloading
+[2019-03-01 14:12:59,215] p13171 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:13:05,815] p13263 {app.py:28} INFO - Logging is set up.
+[2019-03-01 14:13:07,248] p13268 {app.py:28} INFO - Logging is set up.
+[2019-03-01 14:13:18,847] p13278 {app.py:29} INFO - Logging is set up.
+[2019-03-01 14:13:18,858] p13278 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-03-01 14:13:18,858] p13278 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:13:19,010] p13280 {app.py:29} INFO - Logging is set up.
+[2019-03-01 14:13:19,022] p13280 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:13:19,023] p13280 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
+[2019-03-01 14:13:20,308] p13280 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO - 127.0.0.1 - - [01/Mar/2019 14:13:20] "GET / HTTP/1.1" 200 -
+[2019-03-01 14:13:32,815] p13307 {app.py:29} INFO - Logging is set up.
+[2019-03-01 14:13:32,826] p13307 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-03-01 14:13:32,826] p13307 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:13:32,969] p13309 {app.py:29} INFO - Logging is set up.
+[2019-03-01 14:13:32,979] p13309 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:13:32,979] p13309 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
+[2019-03-01 14:13:34,239] p13309 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO - 127.0.0.1 - - [01/Mar/2019 14:13:34] "GET / HTTP/1.1" 200 -
+[2019-03-01 14:13:34,843] p13309 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO - 127.0.0.1 - - [01/Mar/2019 14:13:34] "GET / HTTP/1.1" 200 -
+[2019-03-01 14:13:35,327] p13309 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO - 127.0.0.1 - - [01/Mar/2019 14:13:35] "GET / HTTP/1.1" 200 -
+[2019-03-01 14:14:14,289] p13309 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Detected change in '/home/moka/tiki-webservice/app.py', reloading
+[2019-03-01 14:14:14,339] p13307 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:14:14,517] p13354 {app.py:31} INFO - Logging is set up.
+[2019-03-01 14:14:14,529] p13354 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:14:14,529] p13354 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
+[2019-03-01 14:14:15,536] p13354 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Detected change in '/home/moka/tiki-webservice/app.py', reloading
+[2019-03-01 14:14:15,578] p13307 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:14:22,795] p13375 {app.py:35} INFO - Logging is set up.
+[2019-03-01 14:14:22,806] p13375 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-03-01 14:14:22,807] p13375 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:14:22,952] p13377 {app.py:35} INFO - Logging is set up.
+[2019-03-01 14:14:22,961] p13377 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:14:22,962] p13377 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
+[2019-03-01 14:14:24,975] p13377 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO - 127.0.0.1 - - [01/Mar/2019 14:14:24] "GET / HTTP/1.1" 500 -
+[2019-03-01 14:14:34,049] p13377 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Detected change in '/home/moka/tiki-webservice/app.py', reloading
+[2019-03-01 14:14:34,093] p13375 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:14:34,230] p13392 {app.py:36} INFO - Logging is set up.
+[2019-03-01 14:14:34,240] p13392 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:14:34,240] p13392 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
+[2019-03-01 14:14:35,115] p13392 {app.py:20} ERROR - [2019-Mar-01 14:14] 127.0.0.1 GET http /? 200 OK
+[2019-03-01 14:14:35,116] p13392 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO - 127.0.0.1 - - [01/Mar/2019 14:14:35] "GET / HTTP/1.1" 200 -
+[2019-03-01 14:15:26,630] p13392 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Detected change in '/home/moka/tiki-webservice/app.py', reloading
+[2019-03-01 14:15:26,661] p13375 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:20:17,151] p13777 {app.py:35} INFO - Logging is set up.
+[2019-03-01 14:20:17,173] p13777 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-03-01 14:20:17,174] p13777 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:20:17,378] p13779 {app.py:35} INFO - Logging is set up.
+[2019-03-01 14:20:17,391] p13779 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:20:17,392] p13779 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
+[2019-03-01 14:20:18,697] p13779 {app.py:20} ERROR - [2019-Mar-01 14:20] 127.0.0.1 GET http /? 200 OK
+[2019-03-01 14:20:18,699] p13779 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO - 127.0.0.1 - - [01/Mar/2019 14:20:18] "GET / HTTP/1.1" 200 -
+[2019-03-01 14:20:58,704] p13779 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Detected change in '/home/moka/tiki-webservice/app.py', reloading
+[2019-03-01 14:20:58,748] p13777 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:21:05,428] p13820 {app.py:35} INFO - Logging is set up.
+[2019-03-01 14:21:05,442] p13820 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-03-01 14:21:05,443] p13820 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:21:05,632] p13823 {app.py:35} INFO - Logging is set up.
+[2019-03-01 14:21:05,646] p13823 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:21:05,647] p13823 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
+[2019-03-01 14:21:06,962] p13823 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO - 127.0.0.1 - - [01/Mar/2019 14:21:06] "GET / HTTP/1.1" 500 -
+[2019-03-01 14:21:18,745] p13823 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Detected change in '/home/moka/tiki-webservice/app.py', reloading
+[2019-03-01 14:21:18,791] p13820 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:21:18,979] p13848 {app.py:35} INFO - Logging is set up.
+[2019-03-01 14:21:18,991] p13848 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:21:18,992] p13848 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
+[2019-03-01 14:21:30,063] p13848 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Detected change in '/home/moka/tiki-webservice/app.py', reloading
+[2019-03-01 14:21:30,104] p13820 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:21:30,317] p13856 {app.py:29} INFO - Logging is set up.
+[2019-03-01 14:21:30,331] p13856 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:21:30,331] p13856 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
+[2019-03-01 14:21:32,831] p13856 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO - 127.0.0.1 - - [01/Mar/2019 14:21:32] "GET / HTTP/1.1" 200 -
+[2019-03-01 14:22:50,375] p13900 {app.py:29} INFO - Logging is set up.
+[2019-03-01 14:22:50,395] p13900 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-03-01 14:22:50,395] p13900 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:22:50,578] p13902 {app.py:29} INFO - Logging is set up.
+[2019-03-01 14:22:50,590] p13902 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:22:50,590] p13902 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
+[2019-03-01 14:22:52,187] p13902 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO - 127.0.0.1 - - [01/Mar/2019 14:22:52] "GET / HTTP/1.1" 200 -
+[2019-03-01 14:23:24,804] p13902 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Detected change in '/home/moka/tiki-webservice/app.py', reloading
+[2019-03-01 14:23:24,840] p13900 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Restarting with stat
+[2019-03-01 14:23:25,065] p13953 {app.py:29} INFO - Logging is set up.
+[2019-03-01 14:23:25,080] p13953 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} WARNING -  * Debugger is active!
+[2019-03-01 14:23:25,080] p13953 {/home/moka/tiki-webservice/venv/lib/python3.6/site-packages/werkzeug/_internal.py:88} INFO -  * Debugger PIN: 262-324-640
